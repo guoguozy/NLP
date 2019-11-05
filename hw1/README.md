@@ -1,0 +1,3 @@
+-  nlp.py, web.txt, text.txt分别为网页分词的代码文件，网页的文本记录txt，以及分好词的文本txt
+-  joke.py, joke.txt, joke_text.txt 分别为对歧义字句的不同分词文件代码，存放歧义字句，以及结果txt
+-  report.md, report.pdf 为实验报告
